@@ -178,7 +178,7 @@ p{
     text-align: center;
     background-color: rgb(243, 247, 250);
     margin-top: 50px;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 .contactform{
     font-size: 35px;
@@ -195,6 +195,15 @@ input[type=text] {
     text-align: center;
     font-size: 24px;
     border-radius: 10px;
+  }
+  .sendbutton{
+    color: aliceblue;
+    padding: 8px 50px;
+    background-color: rgb(252, 95, 95);
+    border-radius: 8px;
+  }
+  .btndiv{
+      margin-top: 30px;
   }
 .footerHaeading{
     height: 140px;
