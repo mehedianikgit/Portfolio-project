@@ -30,6 +30,7 @@ p{
 }
 .missionPicture{
     width: 40%;
+    margin-block: auto;
 }
 .missionPicture img {
     width: 100%;
